@@ -1,0 +1,23 @@
+div>div>p{
+    background-color: darkgoldenrod;
+    color: black;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+div ol{
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div>div>div>pre{
+    background-color: violet;
+    color: black;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div p{
+    background-color: green;
+    color: black;
+    font-weight: bolder;
+}
