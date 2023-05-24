@@ -1,0 +1,220 @@
+body {
+    background-color: darkgray;
+    display: grid;
+    place-content: center;
+}
+
+h1,
+h2 {
+    text-align: center;
+
+}
+
+.France {
+    display: flex;
+}
+
+.one {
+    background-color: #0055A4;
+    width: 100px;
+    height: 200px;
+}
+
+.two {
+    background-color: #FFFFFF;
+    width: 100px;
+    height: 200px;
+}
+
+.three {
+    background-color: #EF4135;
+    width: 100px;
+    height: 200px;
+}
+
+.Germany {
+    flex-direction: column;
+}
+
+.Germany .one {
+    height: 75px;
+    width: 300px;
+    background-color: #000000;
+}
+
+.Germany .two {
+    height: 75px;
+    width: 300px;
+    background-color: #DD0000;
+}
+
+.Germany .three {
+    height: 75px;
+    width: 300px;
+    background-color: #FFCE00;
+}
+
+.Gambia {
+    background-color: white;
+    flex-direction: column;
+    height: 200px;
+    width: 300px;
+}
+
+.Gambia .one {
+    padding: 0%;
+    margin: 0%;
+    height: 70px;
+    width: 300px;
+    background-color: #EF3340;
+}
+
+.Gambia .two {
+    height: 70px;
+    width: 300px;
+    background-color: #003DA5;
+}
+
+.Gambia .three {
+    height: 70px;
+    width: 300px;
+    background-color: #009639;
+}
+
+.Indonesia {
+    flex-direction: column;
+    height: 200px;
+    width: 300px;
+}
+
+.Indonesia .one {
+    background-color: #ff0000;
+    height: 100px;
+    width: 300px;
+}
+
+.Indonesia .two {
+    background: #FFFFFF;
+    height: 100px;
+    width: 300px;
+}
+
+.Latvia {
+    flex-direction: column;
+}
+
+.Latvia .one {
+    background-color: #A4343A ;
+    height: 80px;
+    width: 300px;
+}
+
+.Latvia .two {
+    background-color: #FFFFFF;
+    height: 50px;
+    width: 300px;
+}
+.Latvia .three {
+    background-color: #A4343A ;
+    height: 80px;
+    width: 300px;
+}
+.Finland {
+    background-color: white;
+    height: 200px;
+    width: 300px;
+}
+.Finland .one {
+    background-color: #002F6C;
+    height: 200px;
+    width: 45px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 70px;
+}
+.Finland .two {
+    background-color: #002F6C;
+    height: 45px;
+    width: 300px;
+    position: relative;
+    margin-top: -125px;
+}
+.England {
+    background-color: white;
+    height: 200px;
+    width: 300px;
+}
+.England .one {
+    background-color: #CE1124;
+    height: 200px;
+    width: 50px;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 120px;
+}
+.England .two {
+    background-color: #CE1124;
+    height: 50px;
+    width: 300px;
+    position: relative;
+    margin-top: -125px;
+}
+.Japan {
+    background-color: white;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+.Japan .one {
+    background-color: #BC002D;
+    align-items: center;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    margin: auto;
+}
+.Switzerland{
+    background-color: #DA291C;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+
+}
+.Switzerland .one{
+    background-color: #FFFFFF;
+    height: 50px;
+    width: 180px;
+    margin-top: 25%;
+}
+.Switzerland .two{
+    background-color: #FFFFFF;
+    height: 140px;
+    width: 50px;
+    margin-left: 35%;
+    margin-top: -25%;
+}
+.Mad {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 200px;
+    width: 300px;
+    align-items: flex-end;}
+    
+.Mad .one {
+    background-color: #F9423A;
+    width: 200px;
+    height: 100px;
+
+}
+
+.Mad .two {
+    background-color: #00843D;
+    width:200px;
+    height: 100px;
+}
+
+    
+
