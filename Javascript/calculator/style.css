@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    margin-top: 16rem;
+    background-color: cadetblue;
+    font-family: cursive;
+}
+
+#inputType1 {
+    height: 2rem;
+    border: 2px solid black;
+    text-align: center;
+    font-size: large;
+}
+
+#inputType2 {
+    height: 2rem;
+    border: 2px solid black;
+    text-align: center;
+    font-size: large;
+}
+
+#btn1 {
+    height: 2rem;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+    font-size: medium;
+}
+#btn1:hover {
+    background-color: dodgerblue;
+}
+#btn2:hover {
+    background-color: dodgerblue;
+}
+#btn3:hover {
+    background-color: dodgerblue;
+}
+#btn4:hover {
+    background-color: dodgerblue;
+}
+
+#btn2 {
+    height: 2rem;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+    font-size: medium;
+}
+
+#btn3 {
+    height: 2rem;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+    font-size: medium;
+}
+
+#btn4 {
+    height: 2rem;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+    font-size: medium;
+}

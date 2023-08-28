@@ -1,0 +1,53 @@
+body{
+    background-color: darkturquoise;
+}
+
+#paraMain{
+    font-family: fantasy;
+    font-size: xx-large;
+    margin-left: 690px;
+}
+
+
+#para1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-family: cursive;
+}
+
+.container{  
+    height: 5rem;
+    width: 10rem;
+    padding:2rem;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.greater{
+    background-color: green;
+}
+.lower{
+    background-color: red;
+}
+
+#btn{
+    margin-left: 720px;
+    margin-top: 30px;
+    height: 30px;
+    width: 100px;
+    background-color: darkred;
+    color: white;
+    font-size: larger;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
