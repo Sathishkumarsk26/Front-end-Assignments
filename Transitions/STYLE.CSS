@@ -1,0 +1,81 @@
+body{
+    background-color: darkgrey;
+    margin-left: 600px;
+}
+.square{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    text-align: center;
+}
+.circle{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    border: 2px solid black;
+    text-align: center;
+
+}
+.circle:hover{
+    background-color: darkorange;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+.rectangle{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    border: 2px solid black;
+    text-align: center;
+
+}
+.rectangle:hover{
+    background-color: dodgerblue;
+    height: 180px;
+    width: 400px;
+    transition: 0.5s ease-in-out;
+}
+.triangle{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.triangle:hover{
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 200px solid red;
+    transition: 0.5s ease-in-out;
+    background-color: transparent;
+
+}
+.oval{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    border: 2px solid black;
+    text-align: center;
+
+}
+.oval:hover{
+    height: 200px;
+    width: 350px;
+    border-radius: 50%;
+    background-color: green;
+    transition: 0.5s ease-in-out;
+
+}
