@@ -1,0 +1,34 @@
+table{
+    border: 2px solid black;
+    background-color:lightgray;
+}
+td,th{
+    border:2px solid black;
+}
+th{
+    background-color: darkgoldenrod;
+}
+#one{
+    background:lightgreen;
+}
+#two{
+    background-color: lightblue;
+}
+#default{
+    background-color: orange;
+}
+#js{
+    background-color: red;
+    color: white;
+}
+#css{
+    background-color: brown;
+    color: white;
+
+}
+#html{
+    background-color: pink;
+}
+#default1{
+    color:red ;
+}

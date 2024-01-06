@@ -1,0 +1,41 @@
+th,td{
+    border:2px solid black;
+}
+table{
+    border:2px solid black;
+    height:50vh;
+    width:100%;
+    text-align:center;
+    font-family: cursive;
+    font-size: larger;
+    background-color: lightgray;
+    color: black;
+}
+.Topper{
+    background-color:yellow;
+}
+.Average
+{
+    background-color: blue;
+}
+.Lower
+{
+    background-color:orange;
+}
+.js
+{
+    background-color:red;
+}
+.css
+{
+    background-color:brown
+}
+.html
+{
+    background-color:pink;
+}
+.default
+{
+    color: red;
+}
+
